@@ -178,7 +178,6 @@ const arrayAlphaNum = []
 for (let i = 0; i <= alphabet.length; i++)
   switch (alphabet[i]) {
     case "g":
-      "6"
   }
 
 console.log()
